@@ -1,14 +1,14 @@
-# Palindrone
+# Palindrones
 In this code challenge we check if a string entered by the user is a palindrome.
 
 ![GitHub followers](https://img.shields.io/github/followers/hrszpuk?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/hrszpuk?style=social)
 <br>
-![GitHub language count](https://img.shields.io/github/languages/count/CodingChallengesBooklet/Palindrone?style=for-the-badge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CodingChallengesBooklet/Palindrone?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/CodingChallengesBooklet/Palindrone?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/CodingChallengesBooklet/Palindrone?style=for-the-badge)
-![GitHub branch checks state](https://img.shields.io/github/checks-status/CodingChallengesBooklet/Palindrone/main?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/CodingChallengesBooklet/Palindrones?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CodingChallengesBooklet/Palindrones?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/CodingChallengesBooklet/Palindrones?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/CodingChallengesBooklet/Palindrones?style=for-the-badge)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/CodingChallengesBooklet/Palindrones/main?style=for-the-badge)
 
 ## Problem
 Write a program that checks if a string entered by the user is a palindrome. 
